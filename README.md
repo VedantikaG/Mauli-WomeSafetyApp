@@ -14,10 +14,9 @@ Designing an effective safety application for women is imperative to address and
 </table>
 
 ### Features
-
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/128be8f8-7fad-4941-b54f-184ca5956225" alt="MainDashboard" width="350"height="500"/></td>
+    <td><img src[="https://github.com/user-attachments/assets/128be8f8-7fad-4941-b54f-184ca5956225](https://github.com/user-attachments/assets/a631170d-458c-4075-84b0-a20157efe48a)" alt="MainDashboard" width="350"height="500"/></td>
   </tr>
 </table>
 
@@ -47,10 +46,10 @@ Designing an effective safety application for women is imperative to address and
 </table>
 
 ### Alert (All Features in One Click)
-
+##### Starts Recording, Siren and triggers Alert Message to saved Emergency Numbers 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/f30f45a9-69f1-44a7-9784-c0110717c7a4" alt="Alert" width="350"height="500"/></td>
+    <td><img src="https://github.com/user-attachments/assets/0754af6d-340d-49c9-b8d7-c65a62c04a34" alt="Alert" width="350"height="500"/></td>
   </tr>
 </table>
 
