@@ -24,7 +24,7 @@ Designing an effective safety application for women is imperative to address and
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/2b1cc4ce-705e-48ef-8745-d1ae1218461c" alt="Add Relatives" width="350"height="500"/></td>
+    <td><img src="https://github.com/user-attachments/assets/2b1cc4ce-705e-48ef-8745-d1ae1218461c" alt="Add Relatives" width="350"height="550"/></td>
   </tr>
 </table>
 
@@ -41,7 +41,7 @@ Designing an effective safety application for women is imperative to address and
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/d4d41c01-9fea-4c5a-a32b-2830c279e905" alt="Numbers" width="350"height="500"/></td>
+    <td><img src="https://github.com/user-attachments/assets/d4d41c01-9fea-4c5a-a32b-2830c279e905" alt="Numbers" width="350"height="250"/></td>
   </tr>
 </table>
 
