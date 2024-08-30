@@ -7,9 +7,9 @@ Designing an effective safety application for women is imperative to address and
 ### Authentication
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/e6ac8d81-9f24-4d21-8cfb-6e7386e43cd3" alt="Login" width="350"height="450"/></td>
+    <td><img src="https://github.com/user-attachments/assets/e6ac8d81-9f24-4d21-8cfb-6e7386e43cd3" alt="Login" width="350"height="500"/></td>
     <td></td>
-    <td><img src="https://github.com/user-attachments/assets/139974e5-6468-483c-a76d-da3f9830c279" alt="Registration" width="350"height="450"/></td>
+    <td><img src="https://github.com/user-attachments/assets/139974e5-6468-483c-a76d-da3f9830c279" alt="Registration" width="350"height="500"/></td>
   </tr>
 </table>
 
@@ -17,7 +17,7 @@ Designing an effective safety application for women is imperative to address and
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/128be8f8-7fad-4941-b54f-184ca5956225" alt="MainDashboard" width="350"height="450"/></td>
+    <td><img src="https://github.com/user-attachments/assets/128be8f8-7fad-4941-b54f-184ca5956225" alt="MainDashboard" width="350"height="500"/></td>
   </tr>
 </table>
 
@@ -25,16 +25,16 @@ Designing an effective safety application for women is imperative to address and
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/2b1cc4ce-705e-48ef-8745-d1ae1218461c" alt="Add Relatives" width="350"height="450"/></td>
+    <td><img src="https://github.com/user-attachments/assets/2b1cc4ce-705e-48ef-8745-d1ae1218461c" alt="Add Relatives" width="350"height="500"/></td>
   </tr>
 </table>
 
 ### Emergency Message
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/b44ecb4f-858f-4a71-8f02-185b8306e4c1" alt="ButtonPage" width="350"height="450"/></td>
+    <td><img src="https://github.com/user-attachments/assets/b44ecb4f-858f-4a71-8f02-185b8306e4c1" alt="ButtonPage" width="350"height="500"/></td>
     <td></td>
-    <td><img src="https://github.com/user-attachments/assets/30dbbe52-0d97-49df-8e95-d4dca3f85838" alt="MsgReceived" width="350"height="450"/></td>
+    <td><img src="https://github.com/user-attachments/assets/30dbbe52-0d97-49df-8e95-d4dca3f85838" alt="MsgReceived" width="350"height="500"/></td>
   </tr>
 </table>
 
@@ -42,7 +42,7 @@ Designing an effective safety application for women is imperative to address and
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/d4d41c01-9fea-4c5a-a32b-2830c279e905" alt="Numbers" width="350"height="450"/></td>
+    <td><img src="https://github.com/user-attachments/assets/d4d41c01-9fea-4c5a-a32b-2830c279e905" alt="Numbers" width="350"height="500"/></td>
   </tr>
 </table>
 
@@ -50,7 +50,7 @@ Designing an effective safety application for women is imperative to address and
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/f30f45a9-69f1-44a7-9784-c0110717c7a4" alt="Alert" width="350"height="450"/></td>
+    <td><img src="https://github.com/user-attachments/assets/f30f45a9-69f1-44a7-9784-c0110717c7a4" alt="Alert" width="350"height="500"/></td>
   </tr>
 </table>
 
